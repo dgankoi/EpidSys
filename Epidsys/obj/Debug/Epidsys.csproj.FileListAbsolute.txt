@@ -1,0 +1,80 @@
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\bin\Debug\Epidsys.exe.config
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\bin\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\bin\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\bin\Debug\MySql.Data.dll
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.csprojResolveAssemblyReference.cache
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Properties.Resources.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.csproj.GenerateResource.Cache
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Login.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Main_menu.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Main_menu_admin_.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.DBEobl.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.DBEzv.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.DBEhvor.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.DBEnp.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.DBEuser.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Analys.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.Analys_adm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.ZAK.resources
+C:\Users\Dgankoi\Desktop\у\диплом\THE PROJECT\Epidsys\Epidsys\obj\Debug\Epidsys.ZAKadm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\bin\Debug\Epidsys.exe.config
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\bin\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\bin\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\bin\Debug\MySql.Data.dll
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.csprojResolveAssemblyReference.cache
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Analys.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Analys_adm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEhvor.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEnp.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEuser.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEzv.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Login.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Main_menu_admin_.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Main_menu.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Properties.Resources.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.ZAK.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.ZAKadm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\Epidsys345345345\Epidsys\obj\Debug\Epidsys.csproj.GenerateResource.Cache
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\bin\Debug\Epidsys.exe.config
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.exe
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.pdb
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\bin\Debug\Epidsys.exe
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\bin\Debug\Epidsys.pdb
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.csprojResolveAssemblyReference.cache
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Analys.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Analys_adm.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEhvor.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEnp.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEuser.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.DBEzv.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Login.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Main_menu_admin_.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Main_menu.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.Properties.Resources.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.ZAK.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.ZAKadm.resources
+C:\Users\Nata\Desktop\Epidsys345345345\Epidsys\obj\Debug\Epidsys.csproj.GenerateResource.Cache
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\bin\Debug\Epidsys.exe.config
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\bin\Debug\Epidsys.exe
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\bin\Debug\Epidsys.pdb
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\bin\Debug\MySql.Data.dll
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.csprojResolveAssemblyReference.cache
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Analys.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Analys_adm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.DBEhvor.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.DBEnp.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.DBEuser.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.DBEzv.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Login.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Main_menu_admin_.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Main_menu.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.Properties.Resources.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.ZAK.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.ZAKadm.resources
+C:\Users\Dgankoi\Desktop\у\диплом\NUMBER_ONE_PROGA\Epidsys\obj\Debug\Epidsys.csproj.GenerateResource.Cache

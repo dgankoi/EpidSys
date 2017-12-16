@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D613BA97-B126-4A6C-B476-9ADF51F252B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Epidsys</RootNamespace>
+    <AssemblyName>Epidsys</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analys.Designer.cs">
+      <DependentUpon>Analys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Analys_adm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analys_adm.Designer.cs">
+      <DependentUpon>Analys_adm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBEhvor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBEhvor.Designer.cs">
+      <DependentUpon>DBEhvor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBEnp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBEnp.Designer.cs">
+      <DependentUpon>DBEnp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBEuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBEuser.Designer.cs">
+      <DependentUpon>DBEuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBEzv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBEzv.Designer.cs">
+      <DependentUpon>DBEzv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="epidsysDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>epidsysDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_menu%28admin%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_menu%28admin%29.Designer.cs">
+      <DependentUpon>Main_menu%28admin%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_menu.Designer.cs">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZAK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZAK.Designer.cs">
+      <DependentUpon>ZAK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZAKadm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZAKadm.Designer.cs">
+      <DependentUpon>ZAKadm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Analys.resx">
+      <DependentUpon>Analys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analys_adm.resx">
+      <DependentUpon>Analys_adm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBEhvor.resx">
+      <DependentUpon>DBEhvor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBEnp.resx">
+      <DependentUpon>DBEnp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBEuser.resx">
+      <DependentUpon>DBEuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBEzv.resx">
+      <DependentUpon>DBEzv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_menu%28admin%29.resx">
+      <DependentUpon>Main_menu%28admin%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_menu.resx">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ZAK.resx">
+      <DependentUpon>ZAK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZAKadm.resx">
+      <DependentUpon>ZAKadm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AppData.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="epidsysDataSet1.xsc">
+      <DependentUpon>epidsysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="epidsysDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>epidsysDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="epidsysDataSet1.xss">
+      <DependentUpon>epidsysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
